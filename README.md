@@ -1,0 +1,1 @@
+Calculadora feita em javascript, com classes e jQuery, para atividade do programa Alpha EdTech.
